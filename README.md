@@ -7,6 +7,8 @@ JavaScript Web Projects: 20 Projects to Build Your Portfolio by Andrei Neagoie a
 <details open>
   <summary>Click to Contract/Expend</summary>
 
+### 9. Our Visual Studio Code Setup + Templates
+
 VSCode Extensions
 
 - Color Highlight
@@ -21,5 +23,12 @@ Grab Favicon From Google
   href="https://www.google.com/s2/u/0/favicons?domain=calendar.google.com"
 />
 ```
+
+[Hero Pattern](https://www.heropatterns.com/)\
+-> Choose Circuit Board
+
+[Google Font - Montserrat](https://fonts.google.com/specimen/Montserrat)
+
+### 14. Setting Up Our Project
 
 </details>
