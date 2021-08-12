@@ -4,7 +4,7 @@ JavaScript Web Projects: 20 Projects to Build Your Portfolio by Andrei Neagoie a
 
 ## Details
 
-<details>
+<details open>
   <summary>Click to Contract/Expend</summary>
 
 VSCode Extensions
