@@ -29,6 +29,12 @@ Grab Favicon From Google
 
 [Google Font - Montserrat](https://fonts.google.com/specimen/Montserrat)
 
+### 17. [NEW] Fetching Data With JavaScript
+
+[Inspirational Quotes](https://quotes-react.netlify.app/)
+
+[Quote API](https://type.fit/api/quotes)
+
 ### 14. Setting Up Our Project
 
 </details>
