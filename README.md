@@ -43,4 +43,8 @@ Grab Favicon From Google
 
 [Loader - S3Schools](https://www.w3schools.com/howto/howto_css_loader.asp)
 
+### 22. [OPTIONAL] Fetching Data With JavaScript
+
+[Forismatic API](https://forismatic.com/en/api/)
+
 </details>
