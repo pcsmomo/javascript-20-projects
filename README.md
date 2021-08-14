@@ -39,4 +39,8 @@ Grab Favicon From Google
 
 [Twitter Integration Doc](https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent)
 
+### 19. [NEW] Creating A Loader With JavaScript
+
+[Loader - S3Schools](https://www.w3schools.com/howto/howto_css_loader.asp)
+
 </details>
