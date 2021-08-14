@@ -35,6 +35,8 @@ Grab Favicon From Google
 
 [Quote API](https://type.fit/api/quotes)
 
-### 14. Setting Up Our Project
+### 18. [NEW] Manipulating DOM With JavaScript
+
+[Twitter Integration Doc](https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent)
 
 </details>
