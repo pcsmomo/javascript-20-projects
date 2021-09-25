@@ -59,4 +59,10 @@ Grab Favicon From Google
 
 [Live Demo](https://jacintodesign.github.io/infinite-scroll/)
 
+### 30. Loader SVG
+
+[Loading Animation Generator](https://loading.io/)
+
+Generate my own loading image as an animated SVG
+
 </details>
