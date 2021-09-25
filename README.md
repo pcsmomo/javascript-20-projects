@@ -29,6 +29,8 @@ Grab Favicon From Google
 
 [Google Font - Montserrat](https://fonts.google.com/specimen/Montserrat)
 
+## Section 3: Quote Generator
+
 ### 17. [NEW] Fetching Data With JavaScript
 
 [Inspirational Quotes](https://quotes-react.netlify.app/)
@@ -50,5 +52,11 @@ Grab Favicon From Google
 ### 28. Manipulating The DOM
 
 [HTML Dom](https://htmldom.dev/)
+
+## Section 3: Quote Generator
+
+### 29. Infinity Scroll Project Overview
+
+[Live Demo](https://jacintodesign.github.io/infinite-scroll/)
 
 </details>
