@@ -75,4 +75,9 @@ Create an account and set up a new application on it
 
 Dry (Dont Repeat Yourself) Code
 
+### 39. Picture In Picture Project Overview
+
+- [Picture-in-Picture Web API](https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/)
+- [Picture-in-Picture Live Demo](https://jacintodesign.github.io/picture-in-picture/)
+
 </details>
