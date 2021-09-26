@@ -71,4 +71,8 @@ Create an account and set up a new application on it
 
 [Unsplash - Fetching Random Photo](https://unsplash.com/documentation#get-a-random-photo)
 
+### 34. JavaScript To Display Data
+
+Dry (Dont Repeat Yourself) Code
+
 </details>
