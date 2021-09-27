@@ -88,4 +88,8 @@ Dry (Dont Repeat Yourself) Code
 
 [ECMAScript proposals](https://github.com/tc39/proposals)
 
+### 46. Styling and HTML Elements
+
+Using "Auto Save" on VSCode is pretty handy
+
 </details>
