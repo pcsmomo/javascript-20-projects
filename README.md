@@ -80,4 +80,8 @@ Dry (Dont Repeat Yourself) Code
 - [Picture-in-Picture Web API](https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/)
 - [Picture-in-Picture Live Demo](https://jacintodesign.github.io/picture-in-picture/)
 
+### 40. Setting Up Our Project
+
+[Google Font - Barlow](https://fonts.google.com/specimen/Barlow?query=barlow#standard-styles)
+
 </details>
