@@ -84,4 +84,8 @@ Dry (Dont Repeat Yourself) Code
 
 [Google Font - Barlow](https://fonts.google.com/specimen/Barlow?query=barlow#standard-styles)
 
+### 43. Code Review
+
+[ECMAScript proposals](https://github.com/tc39/proposals)
+
 </details>
