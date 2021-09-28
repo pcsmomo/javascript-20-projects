@@ -88,8 +88,14 @@ Dry (Dont Repeat Yourself) Code
 
 [ECMAScript proposals](https://github.com/tc39/proposals)
 
+## Section 6: Joke Teller
+
 ### 46. Styling and HTML Elements
 
 Using "Auto Save" on VSCode is pretty handy
+
+### 49. JavaScript In The Project
+
+[Void RSS - API]http://www.voicerss.org/api/
 
 </details>
