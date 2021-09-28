@@ -96,6 +96,10 @@ Using "Auto Save" on VSCode is pretty handy
 
 ### 49. JavaScript In The Project
 
-[Void RSS - API]http://www.voicerss.org/api/
+[Void RSS - API](http://www.voicerss.org/api/)
+
+### 50. JavaScript In The Project 2
+
+[Joke API](https://sv443.net/jokeapi/v2/)
 
 </details>
