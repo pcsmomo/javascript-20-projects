@@ -102,4 +102,8 @@ Using "Auto Save" on VSCode is pretty handy
 
 [Joke API](https://sv443.net/jokeapi/v2/)
 
+### 52. Finishing Up The Project
+
+[HTML Audio/Video DOM Reference](https://www.w3schools.com/tags/ref_av_dom.asp)
+
 </details>
