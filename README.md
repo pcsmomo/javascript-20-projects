@@ -106,4 +106,10 @@ Using "Auto Save" on VSCode is pretty handy
 
 [HTML Audio/Video DOM Reference](https://www.w3schools.com/tags/ref_av_dom.asp)
 
+## Section 7: Light & Dark Mode
+
+### 54. Light Dark Mode Project Overview
+
+[Light & Dark Mode - Live Demo](https://jacintodesign.github.io/light-dark-mode/)
+
 </details>
