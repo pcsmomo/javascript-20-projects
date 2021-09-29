@@ -112,4 +112,17 @@ Using "Auto Save" on VSCode is pretty handy
 
 [Light & Dark Mode - Live Demo](https://jacintodesign.github.io/light-dark-mode/)
 
+### 55. HTML and CSS Setup
+
+- [Dark Theme Color Palette](https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637)
+- [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+- [Hero Pattern](https://www.heropatterns.com/)
+
+```css
+/* Scrollspy  */
+html {
+  scroll-behavior: smooth;
+}
+```
+
 </details>
