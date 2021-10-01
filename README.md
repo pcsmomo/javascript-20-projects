@@ -147,4 +147,10 @@ html {
 - [Creative Tim Template](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 - [HTML Formatter](https://htmlformatter.com/)
 
+### 64. Setting Up Our Content
+
+- [FontAwesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2&q=close&m=free)
+- [Unsplash](https://unsplash.com/)
+- [Random User Image API](https://randomuser.me/)
+
 </details>
