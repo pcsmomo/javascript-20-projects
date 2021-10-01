@@ -135,4 +135,5 @@ html {
 - [Toggle Switch - w3school](https://www.w3schools.com/howto/howto_css_switch.asp)
 - [onchange Event](https://www.w3schools.com/jsref/event_onchange.asp)
 - [Document.documentElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/documentElement)
+
 </details>
