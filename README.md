@@ -153,4 +153,9 @@ html {
 - [Unsplash](https://unsplash.com/)
 - [Random User Image API](https://randomuser.me/)
 
+### 65. JavaScript Inside of HTML
+
+- [AOS - Animate On Scroll Library](https://michalsnik.github.io/aos/)
+- [Loading Third-Party JavaScript: defer/async](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript)
+
 </details>
