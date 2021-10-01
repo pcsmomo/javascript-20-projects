@@ -136,4 +136,15 @@ html {
 - [onchange Event](https://www.w3schools.com/jsref/event_onchange.asp)
 - [Document.documentElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/documentElement)
 
+## Section 8: Animated Template
+
+### 62. Animated Template Project Overview
+
+[Animated Template - Live Demo](https://jacintodesign.github.io/animated-template/)
+
+### 63. Setting Up Our Template
+
+- [Creative Tim Template](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
+- [HTML Formatter](https://htmlformatter.com/)
+
 </details>
