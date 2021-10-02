@@ -13,6 +13,13 @@
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
     <!-- Tailwind Library -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/creativetimofficial/tailwind-starter-kit/compiled-tailwind.min.css" />
+
+    <!-- AOS.js -->
+    <script defer src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <!-- AOS init -->
+    <script defer src="script.js"></script>
+    <!-- Navigation Script -->
+    <script defer src="navbar.js"></script>
   </head>
   <body class="text-gray-800 antialiased">
     <!-- Navigation -->
@@ -530,24 +537,4 @@
     </footer>
     <!-- End of Footer Section -->
   </body>
-  <!-- AOS.js -->
-  <script defer src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-  <script>
-    window.addEventListener("DOMContentLoaded", (event) => {
-      AOS.init({
-        delay: 200, // values from 0 to 3000, with step 50ms
-        duration: 1500, // values from 0 to 3000, with step 50ms
-        once: false, // whether animation should happen only once - while scrolling down
-        mirror: false, // whether elements should animate out while scrolling past them
-      });
-    });
-  </script>
-
-  <!-- Navigation Script -->
-  <script>
-    function toggleNavbar(collapseID) {
-      document.getElementById(collapseID).classList.toggle("hidden");
-      document.getElementById(collapseID).classList.toggle("block");
-    }
-  </script>
 </html>
