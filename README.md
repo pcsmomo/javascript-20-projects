@@ -158,4 +158,10 @@ html {
 - [AOS - Animate On Scroll Library](https://michalsnik.github.io/aos/)
 - [Loading Third-Party JavaScript: defer/async](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript)
 
+## Section 9: Navigation Nation
+
+### 68. Navigation Nation Project Overview
+
+- [Automated Navigation - Live Demo](https://jacintodesign.github.io/animated-navigation/)
+
 </details>
