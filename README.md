@@ -164,4 +164,10 @@ html {
 
 - [Automated Navigation - Live Demo](https://jacintodesign.github.io/animated-navigation/)
 
+### 69. Setting Up Our HTML and CSS
+
+- [Using CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+- [Pletton - Color Selection Tool : Recommend](https://paletton.com)
+- [Menu Icon - W3Schools](https://www.w3schools.com/howto/howto_css_menu_icon.asp)
+
 </details>
