@@ -185,4 +185,10 @@ html {
 }
 ```
 
+### 78. JavaScript To Play Audio
+
+- [HTML Audio/Video DOM Reference](https://www.w3schools.com/tags/ref_av_dom.asp)
+
+Ternary(Conditional) operator
+
 </details>
