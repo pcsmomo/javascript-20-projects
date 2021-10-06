@@ -174,4 +174,8 @@ html {
 
 [Music Player - Live Demo](https://jacintodesign.github.io/music-player/)
 
+### 76. Setting Up Our HTML and CSS
+
+[object-fit : MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
+
 </details>
