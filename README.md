@@ -170,4 +170,8 @@ html {
 - [Pletton - Color Selection Tool : Recommend](https://paletton.com)
 - [Menu Icon - W3Schools](https://www.w3schools.com/howto/howto_css_menu_icon.asp)
 
+## Section 10: Music Player
+
+[Music Player - Live Demo](https://jacintodesign.github.io/music-player/)
+
 </details>
