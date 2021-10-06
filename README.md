@@ -178,4 +178,11 @@ html {
 
 [object-fit : MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
 
+```css
+/* https://www.w3schools.com/cssref/css3_pr_user-select.asp */
+.fas {
+  user-select: auto|none|text|all;
+}
+```
+
 </details>
