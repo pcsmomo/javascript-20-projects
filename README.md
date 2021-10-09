@@ -205,4 +205,10 @@ Ternary(Conditional) operator
 
 > When the new text is the same, innerText always reflow, but textContent doesn't reflow!!
 
+## Section 11: Custom Countdown
+
+### 84. Custom Countdown Project Overview
+
+[Custom Countdown - Live Demo](https://jacintodesign.github.io/custom-countdown/)
+
 </details>
