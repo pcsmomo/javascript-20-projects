@@ -195,4 +195,14 @@ Ternary(Conditional) operator
 
 [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 
+### 83. Code Review
+
+[textContent vs innerText](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent)
+
+> Moreover, since innerText takes CSS styles into account, reading the value of innerText triggers a reflow to ensure up-to-date computed styles. (Reflows can be computationally expensive, and thus should be avoided when possible.)
+
+- devTools -> Performance -> [ESC(escape) Key] -> Option : Rendering -> Paint flashing
+
+> When the new text is the same, innerText always reflow, but textContent doesn't reflow!!
+
 </details>
