@@ -216,4 +216,14 @@ Ternary(Conditional) operator
 - [Pixabay Free Vidoes](https://pixabay.com/videos/)
 - [Video Compression Tool](https://www.youcompress.com/)
 
+### 86. Building Our UI Components
+
+```css
+min-width: unset;
+```
+
+[Form Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/forms/Basic_form_hints)
+
+> _input_ tag has its own font. So I need to explicitly declare font-family to _input_, not only _body_.
+
 </details>
