@@ -114,6 +114,7 @@ ul {
 }
 
 li {
+  display: inline-block;
   font-size: 30px;
   list-style-type: none;
   padding: 10px;
@@ -130,6 +131,35 @@ li span {
 .complete {
   position: relative;
   top: 60px;
+}
+
+.complete-title {
+  animation: complete 4s infinite;
+}
+
+@keyframes complete {
+  0% {
+    color: red;
+  }
+  10% {
+    color: red;
+  }
+  30% {
+    color: yellow;
+  }
+  50% {
+    color: green;
+    transform: scale(1.5);
+  }
+  70% {
+    color: blue;
+  }
+  90% {
+    color: purple;
+  }
+  100% {
+    color: red;
+  }
 }
 
 /* Media Query: Large Smartphone (Vertical) */
