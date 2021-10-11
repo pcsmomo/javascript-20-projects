@@ -234,6 +234,10 @@ min-width: unset;
 
 ### 89. Form Values
 
-- [preventDefault()](https://www.w3schools.com/jsref/event_preventdefault.asp)
+[preventDefault()](https://www.w3schools.com/jsref/event_preventdefault.asp)
+
+### 91. setInterval And clearInterval
+
+[JavaScript Timing Events](https://www.w3schools.com/js/js_timing.asp)
 
 </details>
