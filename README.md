@@ -226,4 +226,10 @@ min-width: unset;
 
 > _input_ tag has its own font. So I need to explicitly declare font-family to _input_, not only _body_.
 
+### 88. JavaScript Dates
+
+- [Date Input : MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date)
+- [Date Object : W3Schools](https://www.w3schools.com/jsref/jsref_obj_date.asp)
+- [Date.toISOString() : MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString)
+
 </details>
