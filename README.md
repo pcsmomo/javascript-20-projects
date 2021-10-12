@@ -259,4 +259,15 @@ JSON.parse();
 
 [Hero Pattern](https://www.heropatterns.com/) - Anchor Away
 
+### 97. Building Our UI 2
+
+Grab Favicon From Google : https://www.google.com/s2/favicons?domain=
+
+```html
+<img
+  src="https://www.google.com/s2/favicons?domain=www.naver.com"
+  alt="Favicon"
+/>
+```
+
 </details>
