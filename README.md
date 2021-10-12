@@ -240,4 +240,13 @@ min-width: unset;
 
 [JavaScript Timing Events](https://www.w3schools.com/js/js_timing.asp)
 
+### 93. Caching With LocalStorage
+
+localStorage saves only "string"
+
+```js
+JSON.stringify();
+JSON.parse();
+```
+
 </details>
