@@ -295,4 +295,6 @@ Grab Favicon From Google : https://www.google.com/s2/favicons?domain=
 }
 ```
 
+### 99. Modals With JavaScript
+
 </details>
