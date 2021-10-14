@@ -297,4 +297,7 @@ Grab Favicon From Google : https://www.google.com/s2/favicons?domain=
 
 ### 99. Modals With JavaScript
 
+- [Regular Expressions : MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+- [RegEx Playground Tool](https://regexr.com/)
+
 </details>
