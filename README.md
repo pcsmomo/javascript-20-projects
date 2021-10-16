@@ -300,4 +300,15 @@ Grab Favicon From Google : https://www.google.com/s2/favicons?domain=
 - [Regular Expressions : MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 - [RegEx Playground Tool](https://regexr.com/)
 
+### 103. Building The Bookmarks
+
+append() vs appendChild()
+
+- append()
+  - (method) ParentNode.append(...nodes: (string | Node)[]): void
+  - arguments can be list of node or string
+- appendChild()
+  - (method) Node.appendChild<HTMLDivElement>(node: HTMLDivElement):
+  - argument should be a node
+
 </details>
