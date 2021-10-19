@@ -321,4 +321,18 @@ append() vs appendChild()
 
 [Pixabay Free Vidoes](https://pixabay.com/videos/)
 
+```css
+/* Disappear slowly */
+.controls-container {
+  opacity: 0;
+  transition: all 0.5s ease-out 2s;
+}
+
+/* Appear quickly */
+.show-controls:hover .controls-container {
+  opacity: 1;
+  transition: all 0.2s ease-out;
+}
+```
+
 </details>
