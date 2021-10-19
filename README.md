@@ -311,4 +311,10 @@ append() vs appendChild()
   - (method) Node.appendChild<HTMLDivElement>(node: HTMLDivElement):
   - argument should be a node
 
+## Section 13: Video Player
+
+### 106. Video Player Project Overview
+
+[Video Player - Live Demo](https://jacintodesign.github.io/video-player/)
+
 </details>
