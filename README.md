@@ -335,4 +335,8 @@ append() vs appendChild()
 }
 ```
 
+### 111. JS - Video Play/Pause
+
+[HTML Audio/Video DOM Reference](https://www.w3schools.com/tags/ref_av_dom.asp)
+
 </details>
