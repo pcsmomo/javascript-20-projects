@@ -339,4 +339,8 @@ append() vs appendChild()
 
 [HTML Audio/Video DOM Reference](https://www.w3schools.com/tags/ref_av_dom.asp)
 
+### 118. JS - Fullscreen
+
+[Fullscreen - W3Schools](https://www.w3schools.com/howto/howto_js_fullscreen.asp)
+
 </details>
