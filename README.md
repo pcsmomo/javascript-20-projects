@@ -382,4 +382,8 @@ function closeFullscreen() {
 
 [Form Validator - Live Demo](https://jacintodesign.github.io/form-validation/)
 
+### 121. Build UI - HTML Forms, Input, Labels
+
+[Input Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+
 </details>
