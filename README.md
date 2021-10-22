@@ -224,7 +224,7 @@ min-width: unset;
 
 [Form Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/forms/Basic_form_hints)
 
-> _input_ tag has its own font. So I need to explicitly declare font-family to _input_, not only _body_.
+> _input_ and _button_ tag has its own font. So I need to explicitly declare font-family to _input_, not only _body_.
 
 ### 88. JavaScript Dates
 
@@ -385,5 +385,11 @@ function closeFullscreen() {
 ### 121. Build UI - HTML Forms, Input, Labels
 
 [Input Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+
+### 123. Build UI - Form CSS
+
+[Valid Psudo Class - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/:valid)
+
+> _input_ and _button_ tag has its own font. So I need to explicitly declare font-family to _button_, not only to _body_.
 
 </details>
