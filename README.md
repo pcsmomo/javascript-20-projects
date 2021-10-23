@@ -57,7 +57,7 @@ Grab Favicon From Google
 
 ### 29. Infinity Scroll Project Overview
 
-[Live Demo](https://jacintodesign.github.io/infinite-scroll/)
+[Infinity Scroll - Live Demo](https://jacintodesign.github.io/infinite-scroll/)
 
 ### 30. Loader SVG
 
@@ -96,7 +96,7 @@ Using "Auto Save" on VSCode is pretty handy
 
 ### 49. JavaScript In The Project
 
-[Void RSS - API](http://www.voicerss.org/api/)
+[Voice RSS - API](http://www.voicerss.org/api/)
 
 ### 50. JavaScript In The Project 2
 
@@ -391,5 +391,12 @@ function closeFullscreen() {
 [Valid Psudo Class - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/:valid)
 
 > _input_ and _button_ tag has its own font. So I need to explicitly declare font-family to _button_, not only to _body_.
+
+### 124. HTML Form Validation
+
+- [Form Validation - MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
+- [Constraint Validation - MDN]()
+- [RegEx Background Info]()
+- [RegEx Playground Tool]()
 
 </details>
