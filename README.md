@@ -395,8 +395,23 @@ function closeFullscreen() {
 ### 124. HTML Form Validation
 
 - [Form Validation - MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
-- [Constraint Validation - MDN]()
-- [RegEx Background Info]()
-- [RegEx Playground Tool]()
+- [Constraint Validation - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Constraint_validation)
+- [RegEx Background Info](https://html.com/attributes/input-pattern/)
+- [RegEx Playground Tool](https://regexr.com/3bfsi)
+
+### 125. JS - Validate Form
+
+> By a call to the checkValidity() or reportValidity() method of a form-associated DOM interface\
+> The checkValidity() method returns a Boolean indicating whether the element's value passes its constraints.
+
+```js
+// form built-in method
+form.checkValidity();
+```
+
+```html
+<!-- not using built-in validation -->
+<form id="form" novalidate></form>
+```
 
 </details>
