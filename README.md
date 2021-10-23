@@ -414,4 +414,8 @@ form.checkValidity();
 <form id="form" novalidate></form>
 ```
 
+### 126. JS - Validate Passwords, Store Data
+
+[Form Validation Part 1: Constraint Validation in HTML](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
+
 </details>
