@@ -418,4 +418,8 @@ form.checkValidity();
 
 [Form Validation Part 1: Constraint Validation in HTML](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
 
+### 128. How to Store User Passwords
+
+[How to Store User Passwords and Overcome Security Threats in 2017](https://rangle.io/blog/how-to-store-user-passwords-and-overcome-security-threats-in-2017/)
+
 </details>
