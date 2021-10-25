@@ -7,16 +7,26 @@ html {
 body {
   margin: 0;
   min-height: 100vh;
-
+  background: whitesmoke;
   font-family: Lato, sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
+.game-container {
+  width: 530px;
+  height: 600px;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.5);
+}
+
 .header {
   background: dodgerblue;
-
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  height: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -39,6 +49,27 @@ h2 {
   font-size: 50px;
   margin-right: 40px;
   user-select: none;
+}
+
+#player .far,
+#player .choice {
+  color: dodgerblue;
+  cursor: pointer;
+}
+
+#player .far:last-of-type,
+#computer .far:last-of-type {
+  margin-right: 0;
+}
+
+#computer .far,
+#computer .choice {
+  color: rgb(235, 43, 52);
+  cursor: pointer;
+}
+
+.selected {
+  color: black !important;
 }
 
 .reset-icon {
@@ -86,6 +117,7 @@ h2 {
 /* Media Query: iPhone (Vertical) */
 @media screen and (max-width: 376px) {
   .game-container {
+    width: 95%;
     height: 550px;
   }
 
