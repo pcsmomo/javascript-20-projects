@@ -37,6 +37,18 @@ function resetSelected() {
   });
 }
 
+// Reset score & playerChoice/computerChoice
+function resetAll() {
+  playerScoreNumber = 0;
+  computerScoreNumber = 0;
+  playerScoreEl.textContent = playerScoreNumber;
+  computerScoreEl.textContent = computerScoreNumber;
+  playerChoiceEl.textContent = "";
+  computerChoiceEl.textContent = "";
+  resultText.textContent = "";
+  resetSelected();
+}
+
 // Random computer choice
 function computerRandomChoice() {
   const computerChoiceNumber = Math.random();
@@ -110,7 +122,7 @@ function checkResult(playerChoice) {
 // Passing player selection value and styleing icons
 function select(playerChoice) {
   checkResult(playerChoice);
-  // All 'selected' styling & playerChoice
+  // Add 'selected' styling & playerChoice
   switch (playerChoice) {
     case "rock":
       playerRock.classList.add("selected");
@@ -136,3 +148,6 @@ function select(playerChoice) {
       break;
   }
 }
+
+// On startup, set initial values
+resetAll();
