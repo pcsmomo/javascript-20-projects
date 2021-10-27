@@ -425,4 +425,13 @@ form.checkValidity();
 
 [Confetti JS](https://www.cssscript.com/confetti-falling-animation/)
 
+### 137. JS - Module Refactoring
+
+- [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+  > module features are imported into the scope of a single script \
+  > — they aren't available in the global scope.
+  > -> So, select() cannot be used in index.html
+- [Understanding ES6 Modules via Their History](https://www.sitepoint.com/understanding-es6-modules-via-their-history/)
+- [JS Modules History Github](https://gist.github.com/branneman/558ef3a37ffd58ea004e00db5b201677)
+
 </details>
