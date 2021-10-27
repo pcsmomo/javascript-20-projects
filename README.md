@@ -452,4 +452,10 @@ form.checkValidity();
    });
    ```
 
+## Section 16: NASA APOD
+
+### 139. NASA APOD Project Overview
+
+[NASA APOD - Live Demo](https://jacintodesign.github.io/nasa-api-pictures/)
+
 </details>
