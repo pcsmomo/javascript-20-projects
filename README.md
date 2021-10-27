@@ -17,11 +17,7 @@ VSCode Extensions
 Grab Favicon From Google
 
 ```html
-<link
-  rel="icon"
-  type="image/png"
-  href="https://www.google.com/s2/u/0/favicons?domain=calendar.google.com"
-/>
+<link rel="icon" type="image/png" href="https://www.google.com/s2/u/0/favicons?domain=calendar.google.com" />
 ```
 
 [Hero Pattern](https://www.heropatterns.com/)\
@@ -264,10 +260,7 @@ JSON.parse();
 Grab Favicon From Google : https://www.google.com/s2/favicons?domain=
 
 ```html
-<img
-  src="https://www.google.com/s2/favicons?domain=www.naver.com"
-  alt="Favicon"
-/>
+<img src="https://www.google.com/s2/favicons?domain=www.naver.com" alt="Favicon" />
 ```
 
 ### 98. Building Our Modal
@@ -427,5 +420,9 @@ form.checkValidity();
 ### 129. Spock Rock Project Overview
 
 [Spock Rock Game - Live Demo](https://jacintodesign.github.io/spock-rock-game/)
+
+### 136. JS - Confetti Functionality
+
+[Confetti JS](https://www.cssscript.com/confetti-falling-animation/)
 
 </details>
