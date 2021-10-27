@@ -434,4 +434,22 @@ form.checkValidity();
 - [Understanding ES6 Modules via Their History](https://www.sitepoint.com/understanding-es6-modules-via-their-history/)
 - [JS Modules History Github](https://gist.github.com/branneman/558ef3a37ffd58ea004e00db5b201677)
 
+### 138. Code Review
+
+1. When we use `<script type="module" /></script>`, we only need one entry javascript file.
+
+   - It creates a dependency trees by itself
+
+2. **Tree shaking** - bundling is doing tree shaking that doesn't load unnecessary modules
+
+3. [Dynamic module loading](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules#dynamic_module_loading)
+   ```js
+   import("./confetti.js").then((module) => {
+     module.startConfetti();
+     resultText.textContent = "You Won!";
+     playerScoreNumber++;
+     playerScoreEl.textContent = playerScoreNumber;
+   });
+   ```
+
 </details>

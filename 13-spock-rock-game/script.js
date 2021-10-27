@@ -105,6 +105,13 @@ function updateScore(playerChoice) {
   } else {
     const choice = choices[playerChoice];
     if (choice.defeats.indexOf(computerChoice) > -1) {
+      // ** Dynamic Import Example **
+      // import("./confetti.js").then((module) => {
+      //   module.startConfetti();
+      //   resultText.textContent = "You Won!";
+      //   playerScoreNumber++;
+      //   playerScoreEl.textContent = playerScoreNumber;
+      // });
       startConfetti();
       resultText.textContent = "You Won!";
       playerScoreNumber++;
