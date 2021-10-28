@@ -474,4 +474,8 @@ form.checkValidity();
 - `href="https://s2.googleusercontent.com/s2/favicons?domain=www.nasa.gov"`
 - `href="https://www.google.com/s2/favicons?domain=www.nasa.gov"`
 
+### 141. Build UI - Navigation
+
+Non-breaking space : `&nbsp;`
+
 </details>
