@@ -17,7 +17,11 @@ VSCode Extensions
 Grab Favicon From Google
 
 ```html
-<link rel="icon" type="image/png" href="https://www.google.com/s2/u/0/favicons?domain=calendar.google.com" />
+<link
+  rel="icon"
+  type="image/png"
+  href="https://www.google.com/s2/u/0/favicons?domain=calendar.google.com"
+/>
 ```
 
 [Hero Pattern](https://www.heropatterns.com/)\
@@ -260,7 +264,10 @@ JSON.parse();
 Grab Favicon From Google : https://www.google.com/s2/favicons?domain=
 
 ```html
-<img src="https://www.google.com/s2/favicons?domain=www.naver.com" alt="Favicon" />
+<img
+  src="https://www.google.com/s2/favicons?domain=www.naver.com"
+  alt="Favicon"
+/>
 ```
 
 ### 98. Building Our Modal
@@ -457,5 +464,14 @@ form.checkValidity();
 ### 139. NASA APOD Project Overview
 
 [NASA APOD - Live Demo](https://jacintodesign.github.io/nasa-api-pictures/)
+
+### 140. Asset - Custom Loading Animation
+
+[Loaf - Free SVG animations](https://getloaf.io/)
+
+#### Google Favicon
+
+- `href="https://s2.googleusercontent.com/s2/favicons?domain=www.nasa.gov"`
+- `href="https://www.google.com/s2/favicons?domain=www.nasa.gov"`
 
 </details>
