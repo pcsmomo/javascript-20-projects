@@ -478,4 +478,8 @@ form.checkValidity();
 
 Non-breaking space : `&nbsp;`
 
+### 142. Build UI - Card with Image
+
+[NASA API Demo](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
+
 </details>
