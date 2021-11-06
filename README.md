@@ -502,4 +502,13 @@ window.scrollTo({
 });
 ```
 
+### 149. Code Review && 150. Optional: Declarative vs Imperative
+
+The project is imperative programming.
+
+**Declarative programming** is a different paradigm
+
+For example, in this project we use updateDOM() function where we need,\
+but in react, react knows when to update DOM. It is sort of declarative programming
+
 </details>
