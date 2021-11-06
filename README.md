@@ -482,4 +482,8 @@ Non-breaking space : `&nbsp;`
 
 [NASA API Demo](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
 
+### 143. JS - NASA API Documentation/Fetch
+
+[NASA API](https://api.nasa.gov/)
+
 </details>
