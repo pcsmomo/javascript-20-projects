@@ -486,4 +486,8 @@ Non-breaking space : `&nbsp;`
 
 [NASA API](https://api.nasa.gov/)
 
+### 144. JS - Create DOM Elements
+
+[<img loading="lazy">](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-loading)
+
 </details>
