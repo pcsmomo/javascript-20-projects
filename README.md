@@ -490,4 +490,16 @@ Non-breaking space : `&nbsp;`
 
 [<img loading="lazy">](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-loading)
 
+### 148. JS - Navigation, Loader
+
+[Window.scrollTo() - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo)
+
+```js
+window.scrollTo({
+  top: 100,
+  left: 100,
+  behavior: "smooth",
+});
+```
+
 </details>
