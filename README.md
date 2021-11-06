@@ -511,4 +511,10 @@ The project is imperative programming.
 For example, in this project we use updateDOM() function where we need,\
 but in react, react knows when to update DOM. It is sort of declarative programming
 
+## Section 17: Math Sprint Game
+
+### 151. Math Sprint Game Project Overview
+
+[Math Sprint Game - Live Demo](https://jacintodesign.github.io/math-sprint-game/)
+
 </details>
