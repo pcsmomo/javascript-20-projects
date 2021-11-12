@@ -545,4 +545,10 @@ but in react, react knows when to update DOM. It is sort of declarative programm
 }
 ```
 
+### 167. JS - Drag and Drop API
+
+- [HTML Drag and Drop API - W3Schools](https://www.w3schools.com/html/html5_draganddrop.asp)
+  - ondragstart / ondragover / ondrop
+- [HTML ondragenter Attribute - W3Schools](https://www.w3schools.com/tags/att_ondragenter.asp)
+
 </details>
