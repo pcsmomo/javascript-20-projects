@@ -523,4 +523,26 @@ but in react, react knows when to update DOM. It is sort of declarative programm
 
 [Drag & Drop - Live Demo](https://jacintodesign.github.io/drag-and-drop/)
 
+[Custom Scroll Bar - CSS Tricks](https://css-tricks.com/the-current-state-of-styling-scrollbars/)
+
+```css
+/* Custom Scroll Bar */
+.custom-scroll::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.4);
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.3);
+  margin-right: 5px;
+}
+
+.custom-scroll::-webkit-scrollbar {
+  width: 10px;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.8);
+}
+```
+
 </details>
