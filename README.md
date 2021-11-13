@@ -559,4 +559,23 @@ but in react, react knows when to update DOM. It is sort of declarative programm
 
 [Element: focusout event - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/focusout_event)
 
+### 172. Code Review
+
+1. [map vs for loop](https://stackoverflow.com/questions/29640254/when-why-to-use-map-reduce-over-for-loops)
+2. [Array.from() - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
+   - `backlogList.children` is actually a `HTMLCollection` not an array
+
+```js
+// For Loop
+backlogListArray = [];
+for (let i = 0; i < backlogList.children.length; i++) {
+  backlogListArray.push(backlogList.children[i].textContent);
+}
+// ⬇️⬇️⬇️
+// Map
+backlogListArray = Array.from(backlogList.children).map(
+  (item) => item.textContent
+);
+```
+
 </details>
