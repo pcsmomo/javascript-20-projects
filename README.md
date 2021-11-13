@@ -555,4 +555,8 @@ but in react, react knows when to update DOM. It is sort of declarative programm
 
 [editable Attibute - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Editable_content)
 
+### 170. JS - Delete Item
+
+[Element: focusout event - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/focusout_event)
+
 </details>

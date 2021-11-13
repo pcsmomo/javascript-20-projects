@@ -56,6 +56,12 @@ function updateSavedColumns() {
   });
 }
 
+// Filter Array to remove empty values
+function filterArray(array) {
+  const filteredArray = array.filter((item) => item !== null);
+  return filteredArray;
+}
+
 // Create DOM Elements for each list item
 function createItemEl(columnEl, column, item, index) {
   // List Item
@@ -64,6 +70,9 @@ function createItemEl(columnEl, column, item, index) {
   listEl.textContent = item;
   listEl.draggable = true;
   listEl.setAttribute("ondragstart", "drag(event)");
+  listEl.contentEditable = true;
+  listEl.id = `c${column}-${index}`;
+  listEl.setAttribute("onfocusout", `updateItem(${column}, ${index})`);
   // Append
   columnEl.appendChild(listEl);
 }
@@ -98,6 +107,17 @@ function updateDOM() {
 
   // Run getSavedColumns only once, Update Local Storage
   updateSavedColumns();
+}
+
+// Update Item - Delete if necessary, or update Array value
+function updateItem(column, index) {
+  const selectedArray = listArrays[column];
+  const selectedColumnEl = listColumns[column].children;
+  if (!selectedColumnEl[index].textContent) {
+    selectedArray.splice(index, 1);
+  }
+  console.log(selectedArray);
+  updateDOM();
 }
 
 // Add to Column List, Reset Textbox
