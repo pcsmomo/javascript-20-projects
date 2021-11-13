@@ -21,6 +21,7 @@ let listArrays = [];
 
 // Drag Functionality
 let draggedItem;
+let dragging = false;
 let currentColumn;
 
 // Get Arrays from localStorage if available, set default values if not
@@ -57,10 +58,10 @@ function updateSavedColumns() {
 }
 
 // Filter Array to remove empty values
-function filterArray(array) {
-  const filteredArray = array.filter((item) => item !== null);
-  return filteredArray;
-}
+// function filterArray(array) {
+//   const filteredArray = array.filter((item) => item !== null);
+//   return filteredArray;
+// }
 
 // Create DOM Elements for each list item
 function createItemEl(columnEl, column, item, index) {
@@ -113,11 +114,14 @@ function updateDOM() {
 function updateItem(column, index) {
   const selectedArray = listArrays[column];
   const selectedColumnEl = listColumns[column].children;
-  if (!selectedColumnEl[index].textContent) {
-    selectedArray.splice(index, 1);
+  if (!dragging) {
+    if (!selectedColumnEl[index].textContent) {
+      selectedArray.splice(index, 1);
+    } else {
+      selectedArray[index] = selectedColumnEl[index].textContent;
+    }
+    updateDOM();
   }
-  console.log(selectedArray);
-  updateDOM();
 }
 
 // Add to Column List, Reset Textbox
@@ -172,6 +176,7 @@ function rebuildArrays() {
 // When Item Starts Dragging
 function drag(e) {
   draggedItem = e.target;
+  dragging = true;
 }
 
 // Column Allows for Item to Drop
@@ -195,6 +200,8 @@ function drop(e) {
   // Add Item to Column
   const parent = listColumns[currentColumn];
   parent.appendChild(draggedItem);
+  // Dragging complete
+  dragging = false;
   rebuildArrays();
 }
 
