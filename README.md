@@ -551,4 +551,8 @@ but in react, react knows when to update DOM. It is sort of declarative programm
   - ondragstart / ondragover / ondrop
 - [HTML ondragenter Attribute - W3Schools](https://www.w3schools.com/tags/att_ondragenter.asp)
 
+### 169. JS - Add Item
+
+[editable Attibute - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Editable_content)
+
 </details>
