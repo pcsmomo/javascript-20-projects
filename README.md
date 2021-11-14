@@ -584,4 +584,9 @@ backlogListArray = Array.from(backlogList.children).map(
 
 [Calculator - Live Demo](https://jacintodesign.github.io/calculator/)
 
+### 175. Build UI - Display CSS
+
+- [CSS gradients example](https://uigradients.com/#MoonlitAsteroid)
+- [Custom Scroll Bar - W3Schools](https://css-tricks.com/the-current-state-of-styling-scrollbars/)
+
 </details>
