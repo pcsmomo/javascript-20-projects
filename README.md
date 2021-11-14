@@ -589,4 +589,11 @@ backlogListArray = Array.from(backlogList.children).map(
 - [CSS gradients example](https://uigradients.com/#MoonlitAsteroid)
 - [Custom Scroll Bar - W3Schools](https://css-tricks.com/the-current-state-of-styling-scrollbars/)
 
+```css
+/* This should be -2, not -1 */
+.equal-sign {
+  grid-column: -2;
+}
+```
+
 </details>
