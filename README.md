@@ -631,4 +631,9 @@ backlogListArray = Array.from(backlogList.children).map(
 
 [Paint Clone - Live Demo](https://jacintodesign.github.io/paint-clone/)
 
+### 192. Build UI - Custom Slider, JSColor, Mobile Message
+
+- [Range Sliders Customasing - W3Schools](https://www.w3schools.com/howto/howto_js_rangeslider.asp)
+- [jscolor.js - color picker](https://jscolor.com/)
+
 </details>
