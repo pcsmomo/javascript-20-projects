@@ -606,4 +606,8 @@ backlogListArray = Array.from(backlogList.children).map(
 
 [Figma example project](https://www.figma.com/file/4KIM14zOqqIKRuF8kBtHGs/Showcase-Website?node-id=1%3A2)
 
+### 187. Build UI - Adding Custom Backgrounds
+
+[css gradient background](https://uigradients.com/#Zinc)
+
 </details>
