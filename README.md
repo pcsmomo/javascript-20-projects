@@ -620,4 +620,9 @@ backlogListArray = Array.from(backlogList.children).map(
 - Take two snapshots and check the comparison
   - If the memory has changed a lot, something is wrong
 
+### 190. Exercise: Memory Leaks And Heap Snapshots
+
+- [Record heap snapshots](https://developer.chrome.com/docs/devtools/memory-problems/heap-snapshots/)
+- [Fix memory problems](https://developer.chrome.com/docs/devtools/memory-problems/)
+
 </details>
