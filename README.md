@@ -596,4 +596,14 @@ backlogListArray = Array.from(backlogList.children).map(
 }
 ```
 
+## Section 20: Splash Page
+
+### 183. Splash Page Project Overview
+
+[Splash Page - Live Demo](https://jacintodesign.github.io/splash-page/)
+
+### 184. Initial Setup - Figma
+
+[Figma example project](https://www.figma.com/file/4KIM14zOqqIKRuF8kBtHGs/Showcase-Website?node-id=1%3A2)
+
 </details>
