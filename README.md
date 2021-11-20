@@ -625,4 +625,10 @@ backlogListArray = Array.from(backlogList.children).map(
 - [Record heap snapshots](https://developer.chrome.com/docs/devtools/memory-problems/heap-snapshots/)
 - [Fix memory problems](https://developer.chrome.com/docs/devtools/memory-problems/)
 
+## Section 21: Paint Clone
+
+### 191. Paint Clone Project Overview
+
+[Paint Clone - Live Demo](https://jacintodesign.github.io/paint-clone/)
+
 </details>
