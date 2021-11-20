@@ -610,4 +610,14 @@ backlogListArray = Array.from(backlogList.children).map(
 
 [css gradient background](https://uigradients.com/#Zinc)
 
+### 189. Code Review
+
+- [Array.prototypefill() - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill)
+
+#### Check Memory Leaks
+
+- Chrome devTool -> Memory -> Heap snapshot
+- Take two snapshots and check the comparison
+  - If the memory has changed a lot, something is wrong
+
 </details>
