@@ -636,4 +636,8 @@ backlogListArray = Array.from(backlogList.children).map(
 - [Range Sliders Customasing - W3Schools](https://www.w3schools.com/howto/howto_js_rangeslider.asp)
 - [jscolor.js - color picker](https://jscolor.com/)
 
+### 193. JS - Canvas Setup
+
+[Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+
 </details>
