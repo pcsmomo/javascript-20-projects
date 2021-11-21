@@ -640,4 +640,10 @@ backlogListArray = Array.from(backlogList.children).map(
 
 [Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 
+### 195. JS - Drawing on Canvas
+
+- [Drawing shapes with canvas - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+- [HTML DOM MouseEvent - W3Schools](https://www.w3schools.com/jsref/obj_mouseevent.asp)
+- [CanvasRenderingContext2D - MDN](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
+
 </details>
