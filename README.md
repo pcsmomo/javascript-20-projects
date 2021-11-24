@@ -654,4 +654,10 @@ backlogListArray = Array.from(backlogList.children).map(
 var fullQuality = canvas.toDataURL("image/jpeg", 1.0);
 ```
 
+## Section 22: Pong
+
+### 199. Pong Project Overview
+
+[Pong Game - Live Demo](https://jacintodesign.github.io/pong/)
+
 </details>
