@@ -660,4 +660,9 @@ var fullQuality = canvas.toDataURL("image/jpeg", 1.0);
 
 [Pong Game - Live Demo](https://jacintodesign.github.io/pong/)
 
+### 200. JS - Create Canvas
+
+- [Drawing shapes with canvas - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+- [CanvasRenderingContext2D - MDN](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
+
 </details>
