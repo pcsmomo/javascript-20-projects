@@ -646,4 +646,12 @@ backlogListArray = Array.from(backlogList.children).map(
 - [HTML DOM MouseEvent - W3Schools](https://www.w3schools.com/jsref/obj_mouseevent.asp)
 - [CanvasRenderingContext2D - MDN](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
 
+### 197. JS - localStorage & Downloading an Image
+
+[HTMLCanvasElement.toDataURL()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/toDataURL)
+
+```js
+var fullQuality = canvas.toDataURL("image/jpeg", 1.0);
+```
+
 </details>
