@@ -1,3 +1,8 @@
+/**
+ * This must be running in a full screen.
+ * screenWidth, canvasPisition, paddleBottomX
+ */
+
 // Canvas
 const { body } = document;
 const canvas = document.createElement("canvas");
@@ -90,9 +95,6 @@ function createCanvas() {
   body.appendChild(canvas);
   renderCanvas();
 }
-
-// Remove this
-createCanvas();
 
 // Reset Ball to Center
 function ballReset() {
@@ -206,6 +208,7 @@ function animate() {
   ballMove();
   ballBoundaries();
   computerAI();
+  window.requestAnimationFrame(animate); // Super smooth comparing to setInterval()
 }
 
 // Start Game, Reset Everything
@@ -220,11 +223,15 @@ function startGame() {
   ballReset();
   createCanvas();
   animate();
+  // 60 frames
+  // setInterval(animate, 1000 / 60);
   canvas.addEventListener("mousemove", (e) => {
-    console.log(e.clientX);
+    // console.log(e.clientX);
     playerMoved = true;
     // Compensate for canvas being centered
     paddleBottomX = e.clientX - canvasPosition - paddleDiff;
+    // console.log(canvasPosition);
+    // console.log(paddleBottomX);
     if (paddleBottomX < paddleDiff) {
       paddleBottomX = 0;
     }
@@ -237,4 +244,4 @@ function startGame() {
 }
 
 // On Load
-// startGame();
+startGame();

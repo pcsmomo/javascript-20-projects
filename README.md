@@ -665,4 +665,10 @@ var fullQuality = canvas.toDataURL("image/jpeg", 1.0);
 - [Drawing shapes with canvas - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 - [CanvasRenderingContext2D - MDN](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
 
+### 201. JS - RequestAnimationFrame
+
+- [Using requestAnimationFrame over setInterval()](https://css-tricks.com/using-requestanimationframe/)
+- [Optimize JavaScript Execution - Google Web](https://developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution)
+- [Window.requestAnimationFrame() - MDN](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+
 </details>
