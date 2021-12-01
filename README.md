@@ -671,4 +671,10 @@ var fullQuality = canvas.toDataURL("image/jpeg", 1.0);
 - [Optimize JavaScript Execution - Google Web](https://developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution)
 - [Window.requestAnimationFrame() - MDN](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 
+## Section 24: Appendix: How JavaScript Works
+
+### 210. JavaScript Engine
+
+[List of ECMAScript engines](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
+
 </details>
