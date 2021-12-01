@@ -680,7 +680,7 @@ var fullQuality = canvas.toDataURL("image/jpeg", 1.0);
 ### 212. Inside the Engine
 
 1. Parser - Lexical Analysis
-2. AST (Abstract Syntact Tree)
+2. AST (Abstract Syntax Tree)
    - [AST Explorer](https://astexplorer.net/)
 3. Intergreter -> Bytecode : tell the browser what to do
    1. Profiler
