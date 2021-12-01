@@ -682,10 +682,10 @@ var fullQuality = canvas.toDataURL("image/jpeg", 1.0);
 1. Parser - Lexical Analysis
 2. AST (Abstract Syntact Tree)
    - [AST Explorer](https://astexplorer.net/)
-3. Intergreter -> Bytecode
+3. Intergreter -> Bytecode : tell the browser what to do
    1. Profiler
    2. Compiler
-4. Optimized Code
+4. Optimized Code : when finished optimizing, replace bytecode, and get faster!
 
 ```js
 function jsEngine(code) {
@@ -696,7 +696,12 @@ jsEngine("var a = 5");
 
 ### 214. Interpreters and Compilers
 
-- Interpreter
-- Compiler
+- Interpreter: Running code line by line, immediate starts
+- Compiler: Optimise codes, so it takes time up for running. But when runs a lot faster.
+
+- JIT Compiler: Just In Time complier -> V8
+
+> Now that we have knowledge about optimizing, \
+> We can actually write optimized code to reduce the time for profiling and compiling!!
 
 </details>
