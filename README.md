@@ -694,4 +694,9 @@ function jsEngine(code) {
 jsEngine("var a = 5");
 ```
 
+### 214. Interpreters and Compilers
+
+- Interpreter
+- Compiler
+
 </details>
