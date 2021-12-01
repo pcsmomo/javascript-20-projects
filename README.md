@@ -677,4 +677,21 @@ var fullQuality = canvas.toDataURL("image/jpeg", 1.0);
 
 [List of ECMAScript engines](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
 
+### 212. Inside the Engine
+
+1. Parser - Lexical Analysis
+2. AST (Abstract Syntact Tree)
+   - [AST Explorer](https://astexplorer.net/)
+3. Intergreter -> Bytecode
+   1. Profiler
+   2. Compiler
+4. Optimized Code
+
+```js
+function jsEngine(code) {
+  return code.split(/\s+/);
+}
+jsEngine("var a = 5");
+```
+
 </details>
