@@ -717,4 +717,17 @@ jsEngine("var a = 5");
 
 - [Optimization Killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments)
 
+### 218. WebAssembly
+
+WebAssembly will be a game changer
+
+### 219. Call Stack and Memory Heap
+
+- Call Stack: where your code is
+  - Chrome devTool -> Source tab -> New Snippet
+  - When debugging line by line, we can actually see the Call Stack on the right side
+  - `(anonymous)` is the Global Execution Context
+  - this call stack points the right memory heap
+- Memory Heap
+
 </details>
