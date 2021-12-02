@@ -730,4 +730,19 @@ WebAssembly will be a game changer
   - this call stack points the right memory heap
 - Memory Heap
 
+### 220. Stack Overflow
+
+About Call Stack
+
+```js
+function inception() {
+  inception();
+}
+inception();
+
+// Uncaught RangeError: Maximum call stack size exceeded
+```
+
+Before browsers didn't give you this error message and just got crashed.
+
 </details>
