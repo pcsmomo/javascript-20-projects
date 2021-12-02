@@ -704,4 +704,17 @@ jsEngine("var a = 5");
 > Now that we have knowledge about optimizing, \
 > We can actually write optimized code to reduce the time for profiling and compiling!!
 
+### 217. Writing Optimized Code
+
+- eval()
+- [arguments](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments)
+- for in
+- with
+- delete
+
+- [Hidden classes](https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html)
+- inline caching
+
+- [Optimization Killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments)
+
 </details>
