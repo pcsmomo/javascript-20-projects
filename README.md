@@ -797,6 +797,26 @@ git clone git@github.com:Rob--W/cors-anywhere.git
 heroku login
 heroku create
 git push heroku master
+# remote:        https://murmuring-castle-75747.herokuapp.com/ deployed to Heroku
+```
+
+```js
+// Without Proxy server
+const apiUrl = "https://type.fit/api/quotes";
+try {
+  const response = await fetch(apiUrl);
+  apiQuotes = await response.json();
+  newQuote();
+} catch (error) {}
+⬇️⬇️⬇️
+// If there is CORS issue and I need to use a Proxy server
+const proxyUrl = "https://murmuring-castle-75747.herokuapp.com/"; // my own cors proxy server
+const apiUrl = "https://type.fit/api/quotes";
+try {
+  const response = await fetch(proxyUrl + apiUrl);
+  apiQuotes = await response.json();
+  newQuote();
+} catch (error) {}
 ```
 
 </details>
