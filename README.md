@@ -745,4 +745,10 @@ inception();
 
 Before browsers didn't give you this error message and just got crashed.
 
+### 222. Memory Leaks
+
+About Memory Heap
+
+[Garbage Collection in Redux Applications](https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications)
+
 </details>
