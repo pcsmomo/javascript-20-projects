@@ -779,4 +779,12 @@ Node.js is a Javascript Runtime like a browsers does (and more)
 - Browser has the `window` object
 - Node.js has the `global` object
 
+## Section 25: Appendix: Git, Github, Open Source and Building a Portfolio
+### 234. Create A Portfolio
+
+- [NameCheap Logo Maker](https://www.namecheap.com/logo-maker/)
+- [Hatchful Logo Maker](https://hatchful.shopify.com/)
+- [Fiverr Logo Maker](https://www.fiverr.com/logo-maker)
+- [Squarespace Logo Maker](https://www.squarespace.com/logo#N4IghgrgLgFgpgExALgGZgDYGc4F8gAA)
+
 </details>
