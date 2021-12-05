@@ -751,4 +751,10 @@ About Memory Heap
 
 [Garbage Collection in Redux Applications](https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications)
 
+### 223. Single Threaded
+
+- Single threaded
+  - One Call Stack
+  - One thing at a time
+
 </details>
